@@ -2,8 +2,8 @@
 
 - ⏵ YouTube: [Tesla42](https://www.youtube.com/@Tesla42)
 - 🌐 Web:
-  - entroserv.de
-  - pionplex.de
+  - https://entroserv.de
+  - https://pionplex.de
 - 🔭 I’m currently working on cryptdomainmgr
 - 🌱 I’m currently learning internetmarketing
 - 👯 I’m looking to collaborate on my projects and youtube
