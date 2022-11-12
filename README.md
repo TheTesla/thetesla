@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello World
 
-<!--
-**TheTesla/thetesla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⏵ YouTube: [Tesla42](https://www.youtube.com/@Tesla42)
+- 🌐 Web:
+  - entroserv.de
+  - pionplex.de
+- 🔭 I’m currently working on cryptdomainmgr
+- 🌱 I’m currently learning internetmarketing
+- 👯 I’m looking to collaborate on my projects and youtube
+- 🤔 I’m looking for help with marketing
+- 💬 Ask me about IAM, X.509, AI, Blockchain, Stockoptions, wireless communication, electronics, python, 3d printing
+- 📫 How to reach me: 
+  - E-Mail: stefan@entroserv.de
+  - Telegram: @Tesla423
+- 😄 Pronouns: (he/his)
